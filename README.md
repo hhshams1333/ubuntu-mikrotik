@@ -10,4 +10,4 @@ Login to Winbox with credentials
 
 Go To System > Licence > Select P1 and Press Generate New Licence 
 
-Every thing is Ready
+Every thing is Ready!
