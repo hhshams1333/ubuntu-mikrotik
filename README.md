@@ -1,4 +1,4 @@
-# ubuntu-mikrotik
+# Install Mikrotik on an Ubuntu mechine
 chmod +x script.sh
 sudo ./install_chr.sh
 
